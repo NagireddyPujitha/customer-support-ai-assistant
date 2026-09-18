@@ -1,0 +1,10 @@
+# Local Environment & Secrets
+.env
+venv/
+__pycache__/
+
+# SQLite Database
+customer_support_tickets.db
+
+# Temporary Data
+support_tickets.csv
